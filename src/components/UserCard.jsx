@@ -1,3 +1,4 @@
+import './UserCard.css';
 
 export default function UserCard({ name, isActive }) {
 	
